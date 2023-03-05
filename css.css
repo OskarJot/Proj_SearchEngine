@@ -13,11 +13,15 @@
 	width: 80%;
 }
 
-h2 {
+.header-title {
 	margin: 50px auto 10px;
 }
 
 .header-search {
 	left: 10px;
 	width: 80%;
+}
+
+.drink-list {
+	margin: 10px auto 10px 10px;
 }
